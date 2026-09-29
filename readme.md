@@ -1,0 +1,1 @@
+Iniciado repositorio com intuito de criar uma aplicacao mobile com o uso da API de dados de usuarios sobre meu TCC(analytics de dados minuciosos de atividades dentro de sites).
